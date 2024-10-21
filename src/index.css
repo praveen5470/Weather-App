@@ -11,7 +11,7 @@
 .App{
   min-height: 100vh;
   display: grid;
-  background: url("../src/assets/pexels-chaitaastic-1796727.jpg") no-repeat center center;
+  background: url("../public/assets/pexels-chaitaastic-1796727.jpg") no-repeat center center;
   background-size: cover; /* Ensure the image covers the entire area */
   height: 100vh; /* Full height */
   width: 100%;
