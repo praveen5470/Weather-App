@@ -1,3 +1,5 @@
+You can Preivew the website here : https://praveen5470.github.io/Weather-App/
+
 🌞 Just Built My Own Weather App with React & Vite! 🌦️
 
 Excited to share my latest project: a Weather App that fetches real-time data from OpenWeatherMap, allowing for effortless weather checks anytime, anywhere. It's incredibly fulfilling to see a personal project like this come to life, especially one as enjoyable and challenging as this!
